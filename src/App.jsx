@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import Navbar from './components/Navbar';       // Navbar component with cart button
-import Products from './components/Products';   // Product listing component
-import CartModal from './components/CartModal'; // Modal component for the cart
+import Navbar from './Components/Navbar';
+import Products from './Components/Products';   // Product listing component
+import CartModal from './Components/CartModal'; // Modal component for the cart
 import './App.css';                             // Import CSS for styling
 
 function App() {
